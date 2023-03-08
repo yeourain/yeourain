@@ -6,6 +6,10 @@
 <a href="mailto:leeth322@gmail.com">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
 </a>
+<!-- Continuous Improvement Programme - CIP -->
+### ![hell0](https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif)
+<!-- https://cyber.dabamos.de/88x31/hell0.gif -->
+
 
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
