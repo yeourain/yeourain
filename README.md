@@ -1,5 +1,14 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+This is the place where I opensource stuff and break things :rofl:
+
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning React
+- 💬 &nbsp;Ask me about anything related to Javascript/Typescript or React
+- 👨‍💻 &nbsp;Read more about my projects at [yeourain.com](https://yeourain.github.io/)
+- ⚡ &nbsp;Fun fact: I love :heart: 🐈‍⬛:s and Gaming (GamerTag: [KartRider:Drift](https://www.nexon.com/kartdrift/main/en/landing))
+
 <h2> My tech stack 📚 </h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
