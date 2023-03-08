@@ -26,11 +26,11 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```text
-Python       13 hrs 30 mins  █████████████████████▓░░░   86.48 %
-JSON         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-Markdown     34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-YAML         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+JavaScript   13 hrs 30 mins  █████████████████████▓░░░   86.48 %
+TypeScript   40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+React        34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Node         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Docker       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
