@@ -5,7 +5,7 @@
 <a href="https://yeourain.github.io/" alt="yeourain's blog" target="_blank">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-blog.svg" height="40" />
 </a>
-<a href="leeth322@gmail.com">
+<a href="mailto:leeth322@gmail.com">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
 </a>
 
