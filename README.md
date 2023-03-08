@@ -26,6 +26,8 @@ Other        12 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+-------
+
 <!--
 **yeourain/yeourain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
