@@ -51,6 +51,10 @@ Docker       12 mins         ▒░░░░░░░░░░░░░░░░
 
 -------
 
+<p align="center">
+<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+</p>
+
 <!--
 **yeourain/yeourain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
