@@ -2,15 +2,13 @@
 
 <br />
 
-<a href="https://www.blackcater.com" alt="blackcater's blog" target="_blank">
+<a href="https://yeourain.github.io/" alt="yeourain's blog" target="_blank">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-blog.svg" height="40" />
 </a>
-<a href="mailto:i@blackcater.dev">
+<a href="leeth322@gmail.com">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
 </a>
-<a href="https://leetcode-cn.com/u/blackcater/">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-leetcode.svg" height="40" />
-</a>
+
 
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
