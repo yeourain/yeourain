@@ -51,6 +51,7 @@ Docker       12 mins         ▒░░░░░░░░░░░░░░░░
 
 -------
 
+<p>안녕하세요!</p>
 <p align="right">
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
 </p>
