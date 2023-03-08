@@ -1,7 +1,5 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<br />
-
 <a href="https://yeourain.github.io/" alt="yeourain's blog" target="_blank">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-blog.svg" height="40" />
 </a>
@@ -9,12 +7,10 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
 </a>
 
-<br /><br />
-
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
-<br /><br />
+
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 This is the place where I opensource stuff and break things :rofl:
 
