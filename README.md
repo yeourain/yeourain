@@ -11,6 +11,19 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+
+```text
+Python       13 hrs 29 mins  █████████████████████▓░░░   86.48 %
+JSON         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+Markdown     34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+YAML         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+```
+
+<!--END_SECTION:waka-->
+
 <!--
 **yeourain/yeourain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
