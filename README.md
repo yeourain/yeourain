@@ -7,7 +7,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🌱 &nbsp;I’m currently learning React
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript or React
 - 👨‍💻 &nbsp;Read more about my projects at [yeourain.com](https://yeourain.github.io/)
-- ⚡ &nbsp;Fun fact: I love :heart: cat🐈‍⬛:s and Gaming (GamerTag: [KartRider:Drift](https://www.nexon.com/kartdrift/main/en/landing))
+- ⚡ &nbsp;Fun fact: I love :heart: :🐈‍:s and Gaming (GamerTag: [KartRider:Drift](https://www.nexon.com/kartdrift/main/en/landing))
 
 <h2> My tech stack 📚 </h2>
 
@@ -26,7 +26,7 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```text
-Python       13 hrs 29 mins  █████████████████████▓░░░   86.48 %
+Python       13 hrs 30 mins  █████████████████████▓░░░   86.48 %
 JSON         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
 Markdown     34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
 YAML         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
