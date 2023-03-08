@@ -1,8 +1,7 @@
-<div align="center">
+<div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient">
-
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 </div>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <a href="https://yeourain.github.io/" alt="yeourain's blog" target="_blank">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-blog.svg" height="40" />
