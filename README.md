@@ -16,7 +16,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🌱 &nbsp;I’m currently learning React
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript or React
 - 👨‍💻 &nbsp;Read more about my projects at [yeourain.com](https://yeourain.github.io/)
-- ⚡ &nbsp;Fun fact: I love :heart: 🐈‍⬛🐈‍s and Gaming (GamerTag: [KartRider:Drift](https://www.nexon.com/kartdrift/main/en/landing))
+- ⚡ &nbsp;Fun fact: I :heart: 🐈‍⬛🐈‍s and 🎮 (GamerTag: [KartRider:Drift](https://www.nexon.com/kartdrift/main/en/landing))
 
 ### My tech stack 📚
 
