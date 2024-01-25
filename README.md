@@ -4,7 +4,7 @@
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<a href="https://yeourain.tistory.com/" alt="yeourain's blog" target="_blank">
+<a href="https://velog.io/@yeourain/posts" alt="yeourain's blog" target="_blank">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-blog.svg" height="40" />
 </a>
 <a href="mailto:leeth322@gmail.com">
